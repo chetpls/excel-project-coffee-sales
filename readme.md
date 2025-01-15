@@ -81,7 +81,7 @@ Coffee data from mochen862 (https://github.com/mochen862/excel-project-coffee-sa
      ![slicers](/img/3-slicers.png)
    - Charts for country sales and customer sales
      ![country](/img/3-country.png)
-     ![customer](/img/3-customer.png)
+     ![customer](/img/3-customers.png)
    - Designed visualization charts
      ![dashboard](/img/3-dashboard.png)
 
