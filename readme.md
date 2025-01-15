@@ -3,7 +3,7 @@
 ## Project Overview
 A comprehensive Excel dashboard for analyzing coffee sales data, demonstrating proficiency in data management, Excel functions, and visualization techniques.
 
-Coffee data from mochen862 from https://github.com/mochen862/excel-project-coffee-sales
+Coffee data from mochen862 (https://github.com/mochen862/excel-project-coffee-sales)
 
 ## Features
 - Advanced Excel formulas (XLOOKUP, INDEX MATCH)
